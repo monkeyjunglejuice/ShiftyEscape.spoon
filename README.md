@@ -1,5 +1,7 @@
 # ⌨ Supercharge your SHIFT key: Hold it for SHIFT, tap it for ESCAPE! (MacOS)
 
+This is a must-have if you're on a MacBook and use your <kbd>esc</kbd> often (like VIM or Evil Emacs users) – even more so if you remapped your <kbd>caps lock</kbd> to <kbd>control</kbd>. 
+
 ### A more useful shift key
 
 As Steve Losh points out in his [Modern Space Cadet](http://stevelosh.com/blog/2012/10/a-modern-space-cadet/#shift-escape) post, there are "keys you hold down to change how other keys behave, but that (usually) don’t do anything if you use them on their own" (e.g., <kbd>shift</kbd>), and there are "keys that you press and release but don’t want to 'repeat' as you hold them" (e.g., <kbd>escape</kbd>). "There are two [distinctly] different ways to use [these keys] and they’re each only useful in one of those ways. This means that we can *combine* them onto a single key without losing any useful functionality!"
@@ -23,7 +25,9 @@ Say goodbye to [Emacs pinky](http://wiki.c2.com/?EmacsPinky). 👋
 
 This functionality is developed and tested with the following dependencies:
 
+- macOS Sequoia 15.2
 - macOS Sierra 10.12
+- [Hammerspoon 1.0.0][hammerspoon]
 - [Hammerspoon 0.9.54][hammerspoon]
 
 ## Installation
@@ -46,11 +50,9 @@ With one more bit of setup, you'll be able to hold <kbd>caps lock</kbd> for <kbd
 
 Open *System Preferences*, navigate to *Keyboard > Modifier Keys*, and set the <kbd>caps lock</kbd> key to <kbd>control</kbd>. [[screenshot]](https://user-images.githubusercontent.com/2988/27111039-7f620442-507b-11e7-9bcf-93d46e14af13.png)
 
-Now you're ready to rock. 🤘
+## Credits
 
-## Shout-outs
-
-All credit goes to [@jasonrudolph(https://github.com/jasonrudolph)] who wrote all the code of this Hammerspoon config. I just changed the key used for <kbd>escape</kbd> from <kbd>control</kbd> to <kbd>shift</kbd>, because it's even better to reach than <kbd>control</kbd> mapped to <kbd>caps lock</kbd> on most keyboards.
+All credit goes to [@jasonrudolph](https://github.com/jasonrudolph) who wrote all the code of this Hammerspoon config. I just changed the key used for <kbd>escape</kbd> from <kbd>control</kbd> to <kbd>shift</kbd>, because it's even better to reach than <kbd>control</kbd> mapped to <kbd>caps lock</kbd> on most keyboards.
 
 Shout-out to [@arbelt](https://github.com/arbelt) and [@jasoncodes](https://github.com/jasoncodes) for the original implementation of this functionality. ⚡️🍻🌟
 
@@ -63,6 +65,6 @@ This code is an adaptation of their work:
 
 Still reading? Dude, you're pretty serious about your keyboard.
 
-Lucky for you, there's more where this came from. Check out [keyboard](https://github.com/jasonrudolph/keyboard) for even more fun. ⌨🤓
+Lucky for you, there's more where this came from. Check out [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) for even more fun. ⌨🤓
 
-[hammerspoon]: http://www.hammerspoon.org
+[hammerspoon]http://www.hammerspoon.org
