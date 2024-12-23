@@ -1,4 +1,4 @@
-# Supercharge your <kbd>shift</kbd> key: Hold it for <kbd>shift</kbd>, tap it for <kbd>escape</kbd>! 
+# ⌨ Supercharge your <SHIFT> key: Hold it for <SHIFT>, tap it for <ESCAPE>!
 
 ### A more useful shift key
 
