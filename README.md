@@ -62,8 +62,6 @@ This code is an adaptation of their work:
 
 ## You might also like
 
-Still reading? Dude, you're pretty serious about your keyboard.
+Still reading? Dude, you're pretty serious about your keyboard. Lucky for you, there's more where this came from. Check out [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) for even more fun. ⌨🤓
 
-Lucky for you, there's more where this came from. Check out [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) for even more fun. ⌨🤓
-
-[hammerspoon]http://www.hammerspoon.org
+[hammerspoon]: http://www.hammerspoon.org
