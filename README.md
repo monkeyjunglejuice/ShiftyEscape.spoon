@@ -1,6 +1,4 @@
-# ShiftyEscape.spoon
-
-Supercharge your <kbd>shift</kbd> key: Hold it for <kbd>shift</kbd>, tap it for <kbd>escape</kbd>! 
+# Supercharge your <kbd>shift</kbd> key: Hold it for <kbd>shift</kbd>, tap it for <kbd>escape</kbd>! 
 
 ### A more useful shift key
 
