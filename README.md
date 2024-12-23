@@ -1,6 +1,6 @@
 # ⌨ Supercharge your SHIFT key: Hold it for SHIFT, tap it for ESCAPE! (MacOS)
 
-This is a must-have if you're on a MacBook and use your <kbd>esc</kbd> often (like VIM or Evil Emacs users) – even more so if you remapped your <kbd>caps lock</kbd> to <kbd>control</kbd>. 
+This is a must-have if you're on a MacBook and use your <kbd>esc</kbd> key often (like VIM or Evil Emacs users do) – even more so if you remapped your <kbd>caps lock</kbd> key to <kbd>control</kbd>. 
 
 ### A more useful shift key
 
@@ -46,18 +46,17 @@ cd ~/.hammerspoon/Spoons/ShiftyEscape.spoon
 
 #### Optional: You're just a few seconds away from a [more useful caps lock key](#optional-a-more-useful-caps-lock-key)
 
-With one more bit of setup, you'll be able to hold <kbd>caps lock</kbd> for <kbd>control</kbd>, and tap <kbd>shift</kbd> for <kbd>escape</kbd>:
+With one more bit of setup, you'll be able to hold <kbd>caps lock</kbd> for <kbd>control</kbd>:
 
 Open *System Preferences*, navigate to *Keyboard > Modifier Keys*, and set the <kbd>caps lock</kbd> key to <kbd>control</kbd>. [[screenshot]](https://user-images.githubusercontent.com/2988/27111039-7f620442-507b-11e7-9bcf-93d46e14af13.png)
 
 ## Credits
 
-All credit goes to [@jasonrudolph](https://github.com/jasonrudolph) who wrote all the code of this Hammerspoon config. I just changed the key used for <kbd>escape</kbd> from <kbd>control</kbd> to <kbd>shift</kbd>, because it's even better to reach than <kbd>control</kbd> mapped to <kbd>caps lock</kbd> on most keyboards.
+All credit goes to [@jasonrudolph](https://github.com/jasonrudolph) who wrote all the code of this Hammerspoon config. I just changed the key initially used as <kbd>escape</kbd> from <kbd>control</kbd> to <kbd>shift</kbd>, because it's even better to reach than <kbd>control</kbd> mapped to <kbd>caps lock</kbd> on most keyboards.
 
 Shout-out to [@arbelt](https://github.com/arbelt) and [@jasoncodes](https://github.com/jasoncodes) for the original implementation of this functionality. ⚡️🍻🌟
 
 This code is an adaptation of their work:
-
 - <https://gist.github.com/arbelt/b91e1f38a0880afb316dd5b5732759f1>
 - <https://github.com/jasoncodes/dotfiles/blob/ac9f3ac/hammerspoon/shift_escape.lua>
 
