@@ -1,4 +1,4 @@
-# ⌨ Supercharge your <SHIFT> key: Hold it for <SHIFT>, tap it for <ESCAPE>!
+# ⌨ Supercharge your SHIFT key: Hold it for SHIFT, tap it for ESCAPE! (MacOS)
 
 ### A more useful shift key
 
